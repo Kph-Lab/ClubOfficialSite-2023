@@ -8,8 +8,8 @@
         <div class="sm:flex flex-row items-center gap-4 hidden">
             <NuxtLink to="/works">Works</NuxtLink>
             <NuxtLink to="/blogs">Blogs</NuxtLink>
-            <NuxtLink to="https://www.youtube.com/@kaijo_physics">Youtube</NuxtLink>
-            <NuxtLink to="https://twitter.com/kaijo_physics">𝕏</NuxtLink>
+            <NuxtLink to="https://www.youtube.com/@kaijo_physics">YouTube</NuxtLink>
+            <NuxtLink to="https://twitter.com/kaijo_physics">X</NuxtLink>
             <NuxtLink to="https://www.instagram.com/kaijo_physics/">Instagram</NuxtLink>
         </div>
         <button
