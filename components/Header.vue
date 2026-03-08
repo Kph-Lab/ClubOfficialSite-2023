@@ -1,5 +1,5 @@
 <template>
-    <header class="flex flex-row items-center gap-4 px-8 pt-4">
+    <header class="flex flex-row items-center gap-4 px-8 py-4 fixed top-0 left-0 w-full bg-white/60 backdrop-blur-md z-50">
         <NuxtLink
             class="text-xl"
             to="/"
@@ -9,7 +9,7 @@
             <NuxtLink to="/works">Works</NuxtLink>
             <NuxtLink to="/blogs">Blogs</NuxtLink>
             <NuxtLink to="https://www.youtube.com/@kaijo_physics">YouTube</NuxtLink>
-            <NuxtLink to="https://twitter.com/kaijo_physics">X</NuxtLink>
+            <NuxtLink to="https://twitter.com/kaijo_physics">𝕏</NuxtLink>
             <NuxtLink to="https://www.instagram.com/kaijo_physics/">Instagram</NuxtLink>
         </div>
         <button
